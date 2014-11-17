@@ -102,7 +102,7 @@ int main() {
         cin >> winNumber;
         }
 
-    cout << "Vinnarnummer registrerad.\n";
+    cout << "Vinnarnummer registrerad...\n";
 
 
     while(true) {   //körs hela tiden och returnerar inskrivet nummers vinstmängd.
