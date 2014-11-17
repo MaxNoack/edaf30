@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1415633974 source:c:\users\max\documents\c++\labbar\labb 1\u2\main.cpp
+	<iostream>
+	"PrizeMoney.h"
+	<ctime>
+	<cstdlib>
+
+1415557096 c:\users\max\documents\c++\labbar\labb 1\u2\include\prizemoney.h
+

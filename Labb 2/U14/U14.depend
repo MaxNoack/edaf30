@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1416227754 source:c:\users\max\documents\c++\labbar\labb 2\u14\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+

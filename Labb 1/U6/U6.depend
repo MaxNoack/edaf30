@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415626831 source:c:\users\max\documents\c++\labbar\labb 1\u6\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416223114 source:c:\users\max\documents\c++\labbar\labb 2\u13\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1415713907 source:c:\users\max\documents\c++\labbar\labb 2\u1\src\delbar.cpp
+	"delbar.h"
+
+1415713897 c:\users\max\documents\c++\labbar\labb 2\u1\include\delbar.h
+
+1415714491 source:c:\users\max\documents\c++\labbar\labb 2\u1\main.cpp
+	<iostream>
+

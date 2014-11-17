@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415963185 source:c:\users\max\documents\c++\labbar\labb 2\u2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<math.h>
+

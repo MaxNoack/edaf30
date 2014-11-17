@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415617295 source:c:\users\max\documents\c++\labbar\labb 1\u5\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
